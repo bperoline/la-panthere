@@ -866,10 +866,8 @@ h4 {
 }
 
 .sizelogo {
-    width: auto;
-    max-width: 100px;
-    height: auto;
-    max-height: 100px;
+    width: 100px;
+    height: 100px;
 }
 
 @media (max-width: 1024px) {
@@ -1138,10 +1136,8 @@ h4 {
     }
 
     .sizelogo {
-        width: auto;
-        max-width: 80px;
-        height: auto;
-        max-height: 80px;
+        width: 80px;
+        height: 80px;
     }
 
     #bloc-1-hero h1 {
