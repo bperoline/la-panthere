@@ -767,8 +767,8 @@ h4 {
 
 .portfolio-thumb {
     margin-bottom: 24px;
-    height: 270px;
-    width: 270px;
+    height: 100%;
+    width: 100%;
 }
 
 .portfolio-row {
@@ -923,8 +923,8 @@ h4 {
     }
 
     .bloc {
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
     .bloc-group,
@@ -936,8 +936,8 @@ h4 {
     .bloc-fill-screen .fill-bloc-top-edge,
     .bloc-fill-screen .fill-bloc-bottom-edge {
         padding: 0 20px;
-        padding-left: constant(safe-area-inset-left);
-        padding-right: constant(safe-area-inset-right);
+        padding-left: 10px;
+        padding-right: 10px;
     }
 
 }
@@ -949,8 +949,8 @@ h4 {
     }
 
     .portfolio-thumb {
-        width: 240px;
-        height: 240px;
+        width: 100%;
+        height: 100%;
         margin: auto;
     }
 
