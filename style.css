@@ -922,11 +922,6 @@ h4 {
         position: relative;
     }
 
-    .bloc {
-        padding-left: 10px;
-        padding-right: 10px;
-    }
-
     .bloc-group,
     .bloc-group .bloc {
         display: block;
